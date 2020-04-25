@@ -73,6 +73,11 @@ Envia as mudanças para o repositório remoto.
 git push origin master
 ```
 
+### Atualizando repositório local
+
+```
+git pull origin master
+```
 
 ### Visualizando mudanças
 
