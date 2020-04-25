@@ -83,6 +83,14 @@ git pull origin master
 
 ### Criando branch
 
+### Navegando entre branch
+
+### Excluindo branch
+
+### Mesclando branch
+
+### Desfazendo mudanças
+
 # Referências: 
 
 [Roger Dudler](https://rogerdudler.github.io/git-guide/index.pt_BR.html)
