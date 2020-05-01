@@ -2,6 +2,8 @@
 
 ## O que é?
 
+Git é um sistema de controle de versões (VCS).
+
 ## Como surgiu?
 
 ## Problemas que resolve?
