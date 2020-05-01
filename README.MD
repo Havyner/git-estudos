@@ -95,4 +95,9 @@ git pull origin master
 
 # Referências: 
 
+[GIT Oficial](https://git-scm.com/)
 [Roger Dudler](https://rogerdudler.github.io/git-guide/index.pt_BR.html)
+[Daniel Schmitz](https://tableless.com.br/tudo-que-voce-queria-saber-sobre-git-e-github-mas-tinha-vergonha-de-perguntar/)
+[Diego Fernandes](https://blog.rocketseat.com.br/iniciando-com-git-github/)
+[Tacio S. S.](https://medium.com/taciossbr/uma-introducao-ao-git-o-que-e-e-como-usar-1dd721a1e6b0)
+[Debora Priscila](https://www.oficinadanet.com.br/post/16111-o-que-e-e-como-funciona-o-git-e-github)
