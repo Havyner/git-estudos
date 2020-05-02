@@ -115,12 +115,20 @@ git diff
 
 ### Criando branch
 
-Criando uma nova branch
+
+Criando uma nova branch a partir do último commit da master.
+```
+git branch NomeDaBranch
+```
+
+Criando uma nova branch e selecionando ela.
 ```
 git checkout -b NomeDaBranch
 ```
 
 ### Navegando entre branch
+
+
 
 ### Excluindo branch
 
