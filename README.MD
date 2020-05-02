@@ -115,6 +115,11 @@ git diff
 
 ### Criando branch
 
+Criando uma nova branch
+```
+git checkout -b NomeDaBranch
+```
+
 ### Navegando entre branch
 
 ### Excluindo branch
