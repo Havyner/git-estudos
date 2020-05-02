@@ -132,6 +132,10 @@ git checkout -b NomeDaBranch
 
 ### Excluindo branch
 
+```
+git brach -d NomeDaBranch
+```
+
 ### Mesclando branch
 
 ### Desfazendo mudanças
