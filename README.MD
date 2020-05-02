@@ -87,6 +87,32 @@ git pull origin master
 
 ### Visualizando mudanças
 
+Visualizar o histórico de mudanças gravadas no repositório.
+
+```
+git log
+```
+
+Visualizando apenas os 2 últimos commits.
+```
+git log -n 2
+```
+
+Visualizando resumo de commits.
+```
+git log --oneline
+```
+
+Visualizando arquivos alterados
+```
+git log --stat
+```
+
+Visualizando mudanças ainda não rastreadas
+```
+git diff
+```
+
 ### Criando branch
 
 ### Navegando entre branch
@@ -112,3 +138,5 @@ git pull origin master
 [Debora Priscila](https://www.oficinadanet.com.br/post/16111-o-que-e-e-como-funciona-o-git-e-github)
 <br/>
 [Evelyn Schmitz](https://blog.taller.net.br/git-parte-1-como-durgiu-a-ferramenta-de-controle-de-versao/)
+<br/>
+[Bruna Escudelario](https://imasters.com.br/desenvolvimento/os-4-comandos-git-que-todo-desenvolvedor-deveria-conhecer)
