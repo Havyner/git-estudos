@@ -110,3 +110,5 @@ git pull origin master
 [Tacio S. S.](https://medium.com/taciossbr/uma-introducao-ao-git-o-que-e-e-como-usar-1dd721a1e6b0)
 <br/>
 [Debora Priscila](https://www.oficinadanet.com.br/post/16111-o-que-e-e-como-funciona-o-git-e-github)
+<br/>
+[Evelyn Schmitz](https://blog.taller.net.br/git-parte-1-como-durgiu-a-ferramenta-de-controle-de-versao/)
