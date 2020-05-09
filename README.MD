@@ -144,6 +144,21 @@ git merge NomeDaBranch
 
 ### Desfazendo mudanças
 
+Mudanças sem salva-lás:
+```
+git clean -fd
+```
+
+Desfazendo git add .
+```
+git reset
+```
+
+Desfazer todas as alterações de arquivos locais
+```
+git reset --hard
+```
+
 # Referências: 
 
 [GIT Oficial](https://git-scm.com/)
