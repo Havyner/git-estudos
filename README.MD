@@ -139,7 +139,7 @@ git branch -d NomeDaBranch
 ### Mesclando branch
 
 ´´´
-git merge <branch>
+git merge NomeDaBranch
 ´´´
 
 ### Desfazendo mudanças
