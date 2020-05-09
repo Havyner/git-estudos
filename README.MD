@@ -128,7 +128,15 @@ git checkout -b NomeDaBranch
 
 ### Navegando entre branch
 
+Listando **branchs**
+```
+git hist --all
+```
 
+Mudando de **brach**
+```
+git checkout NomeDaBranch
+```
 
 ### Excluindo branch
 
@@ -149,12 +157,12 @@ Mudanças sem salva-lás:
 git clean -fd
 ```
 
-Desfazendo git add .
+Desfazendo **git add .**
 ```
 git reset
 ```
 
-Desfazer todas as alterações de arquivos locais
+Desfazer todas as alterações de arquivos locais:
 ```
 git reset --hard
 ```
