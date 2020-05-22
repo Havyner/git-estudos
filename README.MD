@@ -2,11 +2,11 @@
 
 ## O que é?
 
-Git é um sistema de controle de versões (VCS).
+Git é um sistema de controle de versões (VCS). Através dele é possível desenvolver projetos na qual diversas pessoas podem contribuir simultaneamente no mesmo, editando e criando novos arquivos e permitindo que os mesmos possam existir sem o risco de suas alterações serem sobrescritas.
 
 ## Como surgiu?
 
-Desenvolvido em 2005 por Linus Torvalds para o desenvolvimento do Kernel Linux.
+Desenvolvido em 2005 por Linus Torvalds para o desenvolvimento do Kernel Linux. Após o BitKeeper se tornar uma ferramenta paga, Linus Torvalds resolveu desenvolver sua própria ferramenta, sendo mais rápida e simples.
 
 ## Problemas que resolve?
 
